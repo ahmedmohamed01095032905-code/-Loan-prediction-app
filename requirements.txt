@@ -5,3 +5,4 @@ scikit-learn==1.7.1
 seaborn==0.13.2
 matplotlib==3.10.8
 catboost==1.2.8
+category-encoders==2.9.0
